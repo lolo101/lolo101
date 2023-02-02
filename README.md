@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm an enthousiast software craftman
+I'm an enthousiast software craftsman
 
 Playing around with Java since 2003
 
