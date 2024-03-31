@@ -32,4 +32,7 @@ My other social network profiles:
 [<img align="left" alt="medium" src="https://img.shields.io/badge/@lolo101-12100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@lolo101)
 \
 \
+[<img align="left" alt="x" src="https://img.shields.io/badge/loicbroquet-6051c8?style=for-the-badge&logo=slides" />](https://slides.com/loicbroquet)
+\
+\
 [<img align="left" alt="x" src="https://img.shields.io/badge/%40lbroquet-black.svg?&style=for-the-badge&logo=x" />](https://twitter.com/lbroquet)
