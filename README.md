@@ -6,21 +6,25 @@ Playing around with Java since 2003
 
 ## Welcome to my GitHub profile !
 
-Feel free to take a look at my flagship projects :
+Feel free to take a look at my flagship projects:
 - [MsgViewer, an email viewer & converter for msg, eml, mbox mails](https://github.com/lolo101/MsgViewer)
 - [Linux driver for the Perixx PX-1800 keyboard](https://github.com/lolo101/px1800kbd)
+
+In addition you may find:
+- [DDD-AST](https://github.com/lolo101/ddd-ast) an utility powering a project business-fitting indicator
+- My attempts at the [Advent of Code](https://github.com/lolo101/Advent-of-Code) to practice my problem decomposition skills
 
 There are also some kata for my spare time or for interviews and various personal projects
 
 ## Newsletter
 
-I'm the author of "While it Compiles", a newsletter in French 🇫🇷 which you can read @ Substack :
+I'm the author of "While it Compiles", a newsletter in French 🇫🇷:
 
 [<img alt="substack" src="https://img.shields.io/badge/while%20it%20compiles-FF6719.svg?&style=for-the-badge&logo=substack&logoColor=white" />](https://whileitcompiles.substack.com/)
 
 ## You may also like
 
-My other social network profiles :
+My other social network profiles:
 
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/Loïc%20Broquet-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/loicbroquet)
 \
