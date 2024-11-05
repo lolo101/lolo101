@@ -11,7 +11,7 @@ Feel free to take a look at my flagship projects:
 - [Linux driver for the Perixx PX-1800 keyboard](https://github.com/lolo101/px1800kbd)
 
 In addition you may find:
-- [DDD-AST](https://github.com/lolo101/ddd-ast) an utility powering a project business-fitting indicator
+- [Indddy](https://github.com/lolo101/indddy) the DDD Indicator, a utility powering a project business-fitting indicator
 - My attempts at the [Advent of Code](https://github.com/lolo101/Advent-of-Code) to practice my problem decomposition skills
 
 There are also some kata for my spare time or for interviews and various personal projects
