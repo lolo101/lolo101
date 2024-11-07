@@ -22,6 +22,14 @@ I'm the author of "While it Compiles", a newsletter in French 🇫🇷:
 
 [<img alt="substack" src="https://img.shields.io/badge/while%20it%20compiles-FF6719.svg?&style=for-the-badge&logo=substack&logoColor=white" />](https://whileitcompiles.substack.com/)
 
+## Talks
+
+I had the opportunity to give some talks, mostly in french 🇫🇷:
+
+*Human Talks Paris - Après l'Event Storming, l'Event Beau temps ?* [Video](https://youtube.com/watch?v=xCZOvWpevyI) [Slides](https://slides.com/loicbroquet/event-beau-temps)
+
+*DevDay 2024 - Domain-Driven design en continue, au-delà de l'Event-Storming* [Slides](https://slides.com/loicbroquet/ddd-continu)
+
 ## You may also like
 
 My other social network profiles:
