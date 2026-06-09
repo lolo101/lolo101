@@ -28,7 +28,7 @@ I had the opportunity to give some talks, mostly in french 🇫🇷:
 
 *Human Talks Paris - Après l'Event Storming, l'Event Beau temps ?* [Video](https://youtube.com/watch?v=xCZOvWpevyI) [Slides](https://slides.com/loicbroquet/event-beau-temps)
 
-*DevDay 2024 - Domain-Driven design en continue, au-delà de l'Event-Storming* [Slides](https://slides.com/loicbroquet/ddd-continu)
+*DevDay 2024 - Domain-Driven design en continu, au-delà de l'Event-Storming* [Slides](https://slides.com/loicbroquet/ddd-continu)
 
 *DevQuest 2025 - Vers une Métrique DDD Continue : Dépasser les Limites de l'Event Storming* [Video](https://youtu.be/6RWQ18MLzpc) [Slides](https://slides.com/loicbroquet/depasser-les-limites-de-l-event-storming)
 
